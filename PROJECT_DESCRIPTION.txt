@@ -5,6 +5,8 @@ The game consists of ten steps of algorithms with slowly rising difficulty.
 As of May 30th, 2026, it is my turn to decipher my opponent's 3rd algorithm. He previously deciphered 3rd of mine.
 
 Also, we both made websites powered by Flask and published using Cloudpub to access the cyphers and more.
+
+This is the most recent project, starting from about two months ago.
 lmao.
 
 - DrAeyJ, 30.05.2026
